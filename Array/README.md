@@ -4,3 +4,4 @@
 4. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)
 5. [Sort Colors](https://leetcode.com/problems/sort-colors/submissions/1328309200/)
 6. [ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+7. [Move Zeros](https://leetcode.com/problems/move-zeroes/)
