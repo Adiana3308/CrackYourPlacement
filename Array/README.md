@@ -6,3 +6,4 @@
 6. [ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
 7. [Move Zeros](https://leetcode.com/problems/move-zeroes/)
 8. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
+9. [Majority Element](https://leetcode.com/problems/majority-element/description/)
