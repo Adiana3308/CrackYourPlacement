@@ -5,3 +5,4 @@
 5. [Sort Colors](https://leetcode.com/problems/sort-colors/submissions/1328309200/)
 6. [ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
 7. [Move Zeros](https://leetcode.com/problems/move-zeroes/)
+8. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
