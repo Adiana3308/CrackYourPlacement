@@ -7,3 +7,4 @@
 7. [Move Zeros](https://leetcode.com/problems/move-zeroes/)
 8. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
 9. [Majority Element](https://leetcode.com/problems/majority-element/description/)
+10. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
