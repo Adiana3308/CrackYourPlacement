@@ -3,3 +3,4 @@
 3. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
 4. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 5. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)
+6. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
