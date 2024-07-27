@@ -5,3 +5,4 @@
 5. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)
 6. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
 7. [Remove Duplicates from a Sorted Linked List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
+8. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)
