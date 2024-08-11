@@ -8,3 +8,4 @@
 8. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)
 9. [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
 10. [Sort List](https://leetcode.com/problems/sort-list/)
+11. [Multiply two linked lists](https://www.geeksforgeeks.org/problems/multiply-two-linked-lists/1)
