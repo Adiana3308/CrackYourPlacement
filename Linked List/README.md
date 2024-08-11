@@ -7,3 +7,4 @@
 7. [Remove Duplicates from a Sorted Linked List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
 8. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)
 9. [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
+10. [Sort List](https://leetcode.com/problems/sort-list/)
