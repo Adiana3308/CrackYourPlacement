@@ -12,3 +12,4 @@
 12. [ Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
 13. [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/submissions/1349969940/)
 14. [All Unique Permutations](https://www.geeksforgeeks.org/problems/all-unique-permutations-of-an-array/0)
+15. [Find All Duplicates In An Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
