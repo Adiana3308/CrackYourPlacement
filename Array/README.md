@@ -13,3 +13,4 @@
 13. [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/submissions/1349969940/)
 14. [All Unique Permutations](https://www.geeksforgeeks.org/problems/all-unique-permutations-of-an-array/0)
 15. [Find All Duplicates In An Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
+16. [Chocolate Distribution Problem](https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1)
