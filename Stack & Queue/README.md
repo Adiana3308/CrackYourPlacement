@@ -4,4 +4,4 @@
 4. [Implement 2 stacks using Array](https://www.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1)
 5. [Celebrity Problem](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1)
 6. [Evaluation of Postfix Expression](https://www.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1)
-7. [Implement Stack and Queue using Dequeue](https://www.geeksforgeeks.org/implement-stack-queue-using-deque/)
+7. [Implement Stack and Queue using Deque](https://www.geeksforgeeks.org/implement-stack-queue-using-deque/)
