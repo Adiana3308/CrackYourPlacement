@@ -14,3 +14,4 @@
 14. [All Unique Permutations](https://www.geeksforgeeks.org/problems/all-unique-permutations-of-an-array/0)
 15. [Find All Duplicates In An Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
 16. [Chocolate Distribution Problem](https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1)
+17. [SubArray Sum equals K](https://leetcode.com/problems/subarray-sum-equals-k/submissions/1354044338/)
