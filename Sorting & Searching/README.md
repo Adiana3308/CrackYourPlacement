@@ -3,3 +3,4 @@
 3. [Search in a Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 4. [Smallest Positive Missing Number](https://www.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1)
 5. [Find Pair Given Difference](https://www.geeksforgeeks.org/problems/find-pair-given-difference1559/1)
+6. [Find Peak Element](https://www.codingninjas.com/studio/problems/find-peak-element_1081482?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
