@@ -2,3 +2,4 @@
 2. [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
 3. [Same Tree](https://leetcode.com/problems/same-tree/)
 4. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+5. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
