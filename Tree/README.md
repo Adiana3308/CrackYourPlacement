@@ -3,3 +3,4 @@
 3. [Same Tree](https://leetcode.com/problems/same-tree/)
 4. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 5. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+6. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
