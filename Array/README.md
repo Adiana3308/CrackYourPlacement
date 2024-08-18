@@ -17,3 +17,4 @@
 17. [SubArray Sum equals K](https://leetcode.com/problems/subarray-sum-equals-k/submissions/1354044338/)
 18. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
 19. [Game of Life](https://leetcode.com/problems/game-of-life/description/)
+20. [Jump Game](https://leetcode.com/problems/jump-game/)
