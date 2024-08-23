@@ -20,3 +20,6 @@
 20. [Jump Game](https://leetcode.com/problems/jump-game/)
 21. [SubArray Sum Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/)
 22. [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
+23. [Insert Delete GetRandom O(1) - Duplicates Allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/submissions/1365540269/)
+24. [Maximum Points you can obtain from cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/)
+25. [Word Search](https://leetcode.com/problems/word-search/description/)
