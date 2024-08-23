@@ -23,3 +23,4 @@
 23. [Insert Delete GetRandom O(1) - Duplicates Allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/submissions/1365540269/)
 24. [Maximum Points you can obtain from cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/)
 25. [Word Search](https://leetcode.com/problems/word-search/description/)
+26. [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/description/)
