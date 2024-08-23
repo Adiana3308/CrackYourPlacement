@@ -18,3 +18,5 @@
 18. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
 19. [Game of Life](https://leetcode.com/problems/game-of-life/description/)
 20. [Jump Game](https://leetcode.com/problems/jump-game/)
+21. [SubArray Sum Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/)
+22. [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
