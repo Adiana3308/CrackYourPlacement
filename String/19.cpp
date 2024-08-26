@@ -1,35 +1,35 @@
 class Solution {
-    public String minWindow(String s, String t) {
-        if (s == null || t == null || s.length() == 0 || t.length() == 0 ||
-                s.length() < t.length()) {
-            return new String();
+public:
+    std::string minWindow(std::string s, std::string t) {
+        if (s.empty() || t.empty() || s.length() < t.length()) {
+            return "";
         }
-        int[] map = new int[128];
+
+        std::vector<int> map(128, 0);
         int count = t.length();
-        int start = 0, end = 0, minLen = Integer.MAX_VALUE, startIndex = 0;
+        int start = 0, end = 0, minLen = INT_MAX, startIndex = 0;
         /// UPVOTE !
-        for (char c : t.toCharArray()) {
+        for (char c : t) {
             map[c]++;
         }
 
-        char[] chS = s.toCharArray();
-
-        while (end < chS.length) {
-            if (map[chS[end++]]-- > 0) {
+        while (end < s.length()) {
+            if (map[s[end++]]-- > 0) {
                 count--;
             }
+
             while (count == 0) {
                 if (end - start < minLen) {
                     startIndex = start;
                     minLen = end - start;
                 }
-                if (map[chS[start++]]++ == 0) {
+
+                if (map[s[start++]]++ == 0) {
                     count++;
                 }
             }
         }
 
-        return minLen == Integer.MAX_VALUE ? new String() :
-                new String(chS, startIndex, minLen);
+        return minLen == INT_MAX ? "" : s.substr(startIndex, minLen);
     }
-}
+};
