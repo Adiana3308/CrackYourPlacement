@@ -1,0 +1,5 @@
+1. [Phone directory](https://www.geeksforgeeks.org/problems/phone-directory4628/1)
+2. [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
+3. [Word Break(Trie)](https://www.geeksforgeeks.org/problems/word-break-trie--141631/1)
+4. [Implement Trie(Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
+5. [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/description/)
