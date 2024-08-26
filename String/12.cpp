@@ -9,49 +9,37 @@ class Solution
     public:
     //Function to find the smallest window in the string s consisting
     //of all the characters of string p.
-   string smallestWindow (string s, string p)
+    string smallestWindow (string s, string p)
     {
-        // Your code here
-        if(p.length()>s.length()) return "-1";
-        char temp=p[0];
-        int start=0,end=0;
-        vector<pair<int,int>> ans;
-        for(int i=0;i<s.length()-p.length();i++){
-            if(s[i]==temp) start=i;
-            end=start+1;
-            int m=1;
-            
-            while(end<s.length() && m<p.length()){
-                if(s[end]==p[m]){
-                    m++;
-                    end++;
+          vector<int>mp(26,0);
+        int n = s.length();
+        int m = p.length();
+        if(n<m) return "-1";
+        int l = 0;
+        int r = 0;
+        int cnt = 0;
+        int mini = 1e9;
+        int stI = -1;
+        for(int i = 0; i < m ; i++) mp[p[i] - 'a']++;
+        while(l<n && r < n ){
+            if(mp[s[r] - 'a'] > 0) cnt++;
+            mp[s[r] - 'a']--;
+            while(cnt == m){
+                if(r-l+1 < mini){
+                    mini = r-l+1;
+                    stI = l;
                 }
-                 end++;
-                
-            }
-            if(m==p.length()){
-                //cout<<start<<nem;
-                ans.push_back({start,end});
-            }
-            
-        }
-        string fin="";
-        
-        if(ans.size()==0) fin+='-1';
-        
-        else {
-            int sizer=(ans[0].second-ans[0].first);
-            int ind=0;
-            for(int i=ans.size()-1;i>0;i--){
-                //cout<<ans[i].first<<" "<<ans[i].second;
-                if(sizer>(ans[i].second-ans[i].first)){
-                    sizer=(ans[i].second-ans[i].first);
-                    ind=i;
+                mp[s[l] - 'a']++;
+                if(mp[s[l] - 'a'] > 0){
+                    cnt--;
                 }
+                l++;
             }
-            fin+=s.substr(ans[ind].first,ans[ind].second);
+            r++;
         }
-        return fin;
+        if(stI == -1) return "-1";
+        string ans = s.substr(stI , mini);
+        return ans;
     }
 };
 
