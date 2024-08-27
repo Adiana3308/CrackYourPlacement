@@ -1,2 +1,9 @@
 1. [Gas Station](https://leetcode.com/problems/gas-station/description/)
-2. 
+2. [Minimum cost for acquiring all coins with k extra coins allowed with every coin](https://www.geeksforgeeks.org/minimum-cost-for-acquiring-all-coins-with-k-extra-coins-allowed-with-every-coin/)
+3. [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
+4. [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
+5. [Restore Array from Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/description/)
+6. [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/description/)
+7. [Remove k Digits](https://leetcode.com/problems/remove-k-digits/)
+8. [Minimum Time to Make Rope Colourful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/)
+9. [CHOCOLA- Chocolate](https://www.spoj.com/problems/CHOCOLA/)
