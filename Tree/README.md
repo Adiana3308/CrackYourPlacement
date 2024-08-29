@@ -4,3 +4,8 @@
 4. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 5. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 6. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
+7. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
+8. [Predecessor & Successor](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1)
+9. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/)
+10. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/submissions/1371822403/)
+11. 
