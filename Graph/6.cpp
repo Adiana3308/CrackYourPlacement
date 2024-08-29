@@ -7,6 +7,7 @@ class Solution
 {
 	public:
 	//Function to find sum of weights of edges of the Minimum Spanning Tree.
+	typedef vector<int> vi;
     int spanningTree(int V, vector<vector<int>> adj[])
     {
         priority_queue<vi, vector<vi>, greater<vi>> pq; // weight, node, parent
