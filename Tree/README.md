@@ -8,4 +8,7 @@
 8. [Predecessor & Successor](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1)
 9. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/)
 10. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/submissions/1371822403/)
-11. 
+11. [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
+12. [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)
+13. [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)
+14. 
