@@ -13,7 +13,7 @@
 13. [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)
 14. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 15. [Binary Tree ZigZag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)
-16. [Preorder to Postorder](https://www.geeksforgeeks.org/problems/preorder-to-postorder4423/1
+16. [Preorder to Postorder](https://www.geeksforgeeks.org/problems/preorder-to-postorder4423/1)
 17. [Binary Tree to DLL](https://www.geeksforgeeks.org/problems/binary-tree-to-dll/1)
 18. [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
 19. [Print all k-sum paths in a binary tree](https://www.geeksforgeeks.org/print-k-sum-paths-binary-tree/)
@@ -30,4 +30,7 @@
 30. [Sum of left leaves](https://leetcode.com/problems/sum-of-left-leaves/)
 31. [Check whether BST contains Dead end](https://www.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1)
 32. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/)
-33. 
+33. [Median of BST](https://www.geeksforgeeks.org/problems/median-of-bst/1)
+34. [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+35. [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)
+36. [Sum of Distances](https://leetcode.com/problems/sum-of-distances-in-tree/description/)
