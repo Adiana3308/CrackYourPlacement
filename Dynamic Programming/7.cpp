@@ -23,9 +23,7 @@ struct Job
 };
 */
 
-class Solution 
-{
-    bool JobPriority(Job a, Job b) {
+bool JobPriority(Job a, Job b) {
     return a.profit > b.profit;
 }
 
@@ -53,7 +51,6 @@ class Solution
         result.push_back(profit);
         return result;
     } 
-}; 
 };
 
 //{ Driver Code Starts.
