@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int superEggDrop(int k, int n) {
+    int superEggDrop(int K, int n) {
          vector<int> dp(K + 1, 0);
         int m;
         for (m = 0; dp[K] < N; m++)
