@@ -11,3 +11,4 @@
 11. [Minimum Swaps](https://www.geeksforgeeks.org/problems/minimum-swaps/1)
 12. [Count of Smaller Numbers after Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)
 13. [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/)
+14. [Single Element in a Sorted Array](https://www.scaler.com/academy/mentee-dashboard/class/562574/assignment/problems/4131/submissions)
