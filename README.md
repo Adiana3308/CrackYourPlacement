@@ -79,6 +79,7 @@
 11. [Minimum Swaps](https://www.geeksforgeeks.org/problems/minimum-swaps/1)
 12. [Count of Smaller Numbers after Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)
 13. [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/)
+14. [Single Element in a Sorted Array](https://www.scaler.com/academy/mentee-dashboard/class/562574/assignment/problems/4131/submissions)
 
 ### Linked List
 1. [Sort a Linked List](https://www.codingninjas.com/studio/problems/sort-ll_1115769?source=youtube&campaign=Lovebabbarcodestudio_24thJan&utm_source=youtube&utm_medium=affiliate&utm_campaign=Lovebabbarcodestudio_24thJan&leftPanelTab=1)
